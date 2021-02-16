@@ -1,6 +1,8 @@
 #ifndef STRING_H
 #define STRING_H
 
+//  This is project of Phuc
+
 
 #include <iostream>
 #include <iomanip>
